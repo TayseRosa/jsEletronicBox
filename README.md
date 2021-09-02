@@ -15,7 +15,7 @@ Link da demo: https://tayse.000webhostapp.com/projects/jsEletronicBox/
 ---
 
 ## ➡️ About
-<b>Portugues:</b>
+<b>Portugues:</b> 
 O projeto foi desenvolvido com a intenção de ser uma **base de conhecimento** para consultas de iniciantes na área de **Javascript**, tanto para minhas futuras consultas rápidas, como para outros desenvolvedores JS que por ventura esqueceram como se faz alguma funcionalidade.
 Neste projeto foi desenvolvido uma urna eletrônica, para testar diversos conhecimentos relacionados á Javascript.
 
